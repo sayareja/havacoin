@@ -1,6 +1,6 @@
 HavaCoins Injector
 
-```https://github.com/sayareja/havacoin.git```
+```git clone https://github.com/sayareja/havacoin.git```
 
 ```npm install axios```
 
